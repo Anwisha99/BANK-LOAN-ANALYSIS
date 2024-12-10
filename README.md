@@ -6,6 +6,8 @@ This repository showcases my Bank Loan Analytics Project, where I analyzed custo
 
 The project involved analyzing two large datasets to uncover trends in loan growth and provide actionable insights for stakeholders.
 
+<img src ="https://github.com/Anwisha99/BANK-LOAN-ANALYSIS/blob/main/images/bank_loan_dashboard.png" width="900" height="700" alt="dashboard"/> &emsp;
+
 ## Datasets
   - Format: CSV files.
   - Size: Over 39,000 rows each of customer loan data, including details on loan amounts, customer demographics, and disbursement dates.
