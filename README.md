@@ -50,3 +50,15 @@ The project involved analyzing two large datasets to uncover trends in loan grow
       - Loan Growth: Identified consistent year-over-year growth in loans, with a notable peak in [specific year].
       - Customer Segments: Highlighted top-performing customer segments contributing to the majority of loans.
       - Regional Trends: Revealed disparities in loan performance across regions, providing actionable insights for targeted strategies.
+
+  ## Analysis Performed
+  
+      1. Year wise loan amount Stats.
+      2. Grade and sub grade wise revol_bal.
+      3. Total Payment for Verified Status Vs Total Payment for Non Verified Status.
+      4. State wise and month wise loan status.
+      5. Home ownership Vs last payment date stats.
+      6. Region wise loan stats.
+      7. region wise count the number of accounts whose loan status are verified and not verified.
+
+
